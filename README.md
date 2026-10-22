@@ -13,8 +13,8 @@
     <em>Versão Retificada e Consolidada (2026)</em>
   </p>
 
-  <a href="https://doi.org/"><img src="https://img.shields.io/badge/DOI%20(TCC%202026)-10.5281%2Fzenodo.21922207-blue?style=flat-square&logo=zenodo" alt="DOI TCC"></a>
-  <a href="https://doi.org/"><img src="https://img.shields.io/badge/DOI%20(Banner%202026)-10.5281%2Fzenodo.21924197-blue?style=flat-square&logo=zenodo" alt="DOI Banner"></a><br>
+  <a href="https://doi.org/"><img src="https://img.shields.io/badge/DOI%20(TCC%202026)-10.5281%2Fzenodo.22802031-blue?style=flat-square&logo=zenodo" alt="DOI TCC"></a>
+  <a href="https://doi.org/"><img src="https://img.shields.io/badge/DOI%20(Banner%202026)-10.5281%2Fzenodo.22802219-blue?style=flat-square&logo=zenodo" alt="DOI Banner"></a><br>
   <img src="https://img.shields.io/badge/LaTeX-LaTeX2e-green?style=flat-square&logo=latex" alt="LaTeX">
   <img src="https://img.shields.io/badge/Status-Vers%C3%A3o%20Retificada%20(2026)-success?style=flat-square" alt="Status">
 
