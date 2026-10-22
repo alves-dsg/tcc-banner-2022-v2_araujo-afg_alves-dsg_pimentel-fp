@@ -9,7 +9,7 @@
 
   <p>
     <strong>Trabalho de Conclusão de Curso (TCC) & Banner Científico</strong><br>
-    <em>ARAÚJO, A. F. G.; ALVES, D. S. G.; PIMENTEL, F. P.; ARAÚJO, F. L.; CARDOSO, J. V.</em>
+    <em>ARAÚJO, A. F. G. D.; ALVES, D. S. G.; PIMENTEL, F. P.; ARAÚJO, F. L. D.; CARDOSO, J. V.</em>
     <em>Versão Retificada e Consolidada (2026)</em>
   </p>
 
