@@ -7,6 +7,9 @@
 \usepackage[expansion=false]{microtype}
 \usepackage{url}
 \usepackage{hyperref}
+
+\usepackage{ragged2e}
+
 \hypersetup{
   colorlinks = true,
   linkcolor  = black,
@@ -96,7 +99,7 @@
       \fontsize{11}{13}\selectfont
       \rule{8cm}{0.4pt}\par
       \textbf{\imprimirorientador}\par
-      Professora orientadora\par
+      Professora Orientadora\par
       \vspace{0.8cm}
       \rule{8cm}{0.4pt}\par
       \textbf{\imprimircoorientador}\par
@@ -431,12 +434,43 @@ A imagem apresentada indica a adequação do Laboratório de Informática propos
 	A partir do exposto, compreende-se que as melhorias sugeridas neste trabalho são de suma importância para readequar o ambiente estudado. Acredita-se que tais medidas têm o potencial de aprimorar o ensino e a aprendizagem, tendo em vista que os laboratórios de informática desempenham papel relevante nas escolas públicas estaduais de tempo integral — em especial no CEEP-PMRG —, necessitando dessas adequações para que os estudantes em formação técnica adquiram sólidos conhecimentos práticos.
 \clearpage
 
+\chapter{CONSIDERAÇÕES FINAIS}
 	É importante ressaltar que um ambiente devidamente planejado, estruturado e organizado é fundamental para proporcionar um espaço agradável a todos — sejam professores da base técnica, demais docentes ou estudantes — de modo a permitir o alcance de bons resultados na aprendizagem a partir da utilização do Laboratório de Informática como recurso de aprimoramento pedagógico.
 
 	Os objetivos previstos para este trabalho foram alcançados por meio da elaboração da planta baixa do Laboratório de Informática, permitindo identificar e comparar os pontos de atenção da infraestrutura do CEEP-PMRG, haja vista que um espaço estruturado e organizado traz benefícios diretos ao aprendizado dos alunos.
 
 	Conclui-se que a adequação do Laboratório de Informática às demandas reais identificadas fomenta o interesse dos estudantes dos cursos técnicos em Informática e em Energias Renováveis na realização de atividades teóricas e práticas. Além disso, proporciona aos professores da base técnica a motivação necessária para a aplicação de novas metodologias de ensino como recurso dinamizador da aprendizagem.
 \postextual
+
 \nocite{lobler2012renote,silva2015,nobre2015,gripa2002,galery2012,proinfo2009}
+
+% Referências: título à esquerda, entradas justificadas
+\makeatletter
+\renewenvironment{thebibliography}[1]{%
+  \begingroup
+    \let\centering\raggedright   % título alinhado à esquerda
+    \chapter*{\bibname}%
+  \endgroup
+  \addcontentsline{toc}{chapter}{\bibname}%
+  \sloppy
+  \list{\@biblabel{\@arabic\c@enumiv}}{%
+    \settowidth\labelwidth{\@biblabel{#1}}%
+    \leftmargin\labelwidth
+    \advance\leftmargin\labelsep
+    \@openbib@code
+    \usecounter{enumiv}%
+    \let\p@enumiv\@empty
+    \renewcommand\theenumiv{\@arabic\c@enumiv}%
+  }%
+  \clubpenalty4000
+  \@clubpenalty\clubpenalty
+  \widowpenalty4000%
+  \sfcode`\.\@m
+}{%
+  \def\@noitemerr{\@latex@warning{Empty `thebibliography' environment}}%
+  \endlist
+}
+\makeatother
+
 \bibliography{references}
 \end{document}

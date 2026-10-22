@@ -36,8 +36,8 @@ A versão de 2022 representa a entrega histórica institucional, enquanto a vers
 
 | Documento | Versão Entregue à Instituição (2022) | Versão Retificada e Publicada (Zenodo - 2026) | DOI / Link Permanente |
 | :--- | :--- | :--- | :--- |
-| **Monografia (TCC)** | [`TCC Original 2022`](docs/pdf/origin/TCC_2022_ANALISE_E_PROPOSTA_DE_ADEQUACAO_DO_LABORATORIO_DE_INFORMATICA_DO_CEEP-MRG.pdf) | [`TCC Retificada 2026`](docs/pdf/rectified/araujo-a-f-g_alves-d-s-g_pimentel-f-p_tcc.pdf) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21922207.svg)](https://doi.org/10.5281/zenodo.21922207) |
-| **Banner (Pôster)** | [`Banner Original 2022`](docs/pdf/origin/TCC_2022_BANNER_ANALISE_E_PROPOSTA_DE_ADEQUACAO_DO_LABORATORIO_DE_INFORMATICA_DO_CEEP-MRG.pdf) | [`Banner Retificado 2026`](docs/pdf/rectified/araujo-a-f-g_alves-d-s-g_pimentel-f-p_banner-tcc_2022.pdf) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21924197.svg)](https://doi.org/10.5281/zenodo.21924197) |
+| **Monografia (TCC)** | [`TCC Original 2022`](docs/pdf/origin/TCC_2022_ANALISE_E_PROPOSTA_DE_ADEQUACAO_DO_LABORATORIO_DE_INFORMATICA_DO_CEEP-MRG.pdf) | [`TCC Retificada 2026`](docs/pdf/rectified/araujo-a-f-g_alves-d-s-g_pimentel-f-p_tcc.pdf) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22802031.svg)](https://doi.org/10.5281/zenodo.22802031) |
+| **Banner (Pôster)** | [`Banner Original 2022`](docs/pdf/origin/TCC_2022_BANNER_ANALISE_E_PROPOSTA_DE_ADEQUACAO_DO_LABORATORIO_DE_INFORMATICA_DO_CEEP-MRG.pdf) | [`Banner Retificado 2026`](docs/pdf/rectified/araujo-a-f-g_alves-d-s-g_pimentel-f-p_banner-tcc_2022.pdf) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22802219.svg)](https://doi.org/10.5281/zenodo.22802219) |
 
 ---
 
